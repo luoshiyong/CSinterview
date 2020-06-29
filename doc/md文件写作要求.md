@@ -23,3 +23,14 @@
   图片插入格式：！+[图片名]+(链接)
    
   ![image_name](https://github.com/luoshiyong/LsyChess/blob/master/pic/2.PNG)
+  
+  ### **5.插入表格**
+  |luo|shi|yon|
+  |-|-|-|
+  |10|20|30|
+  |44|55|22|
+  格式：
+  |luo|shi|yon|
+  |10|20|30|
+  |44|55|22|
+  注意表头下边一行要加|-|-|-|识别表头
