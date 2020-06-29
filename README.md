@@ -1,6 +1,8 @@
-# CSinterview
+# CS INTERVEW!
 
-##✏️ 算法
+Hi! I'm a second year graduated school student! This project is build for next coming bat interview.
 
-    Leetcode 题解
-    数据结构
+
+
+
+## Data Structure
