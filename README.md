@@ -2,7 +2,7 @@
 
 Hi! I'm a second year graduated school student! This project is built for next coming bat interview.
 
-## - README.md编写技巧
+- ## README.md编写技巧
  ### **1.标题**
 "# " #+一个空格是一级标题
 "## " ##+一个空格是二级标题，以此类推
