@@ -12,7 +12,7 @@ Hi! I'm a second year graduated school student! This project is built for next c
 - ## 操作系统
 - ## Linux
 - ## 算法
-- ## 数据结构
+- ## [数据结构](https://github.com/luoshiyong/CSinterview/blob/master/doc/data%20structure.md)
 - ## 数字图像处理
 
 - ## 机器学习
