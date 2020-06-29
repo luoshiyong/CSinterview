@@ -15,7 +15,7 @@ Hi! I'm a second year graduated school student! This project is built for next c
 - ## [数据结构](https://github.com/luoshiyong/CSinterview/blob/master/doc/data%20structure.md)
 - ## [数字图像处理](https://github.com/luoshiyong/CSinterview/blob/master/doc/digitalimage.md)
 
-- ## 机器学习
+- ## [机器学习](https://github.com/luoshiyong/CSinterview/blob/master/doc/ML.md)
 
-- ## 深度学习
+- ## [深度学习](https://github.com/luoshiyong/CSinterview/blob/master/doc/DL.md)
 
