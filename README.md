@@ -13,7 +13,7 @@ Hi! I'm a second year graduated school student! This project is built for next c
 - ## [Linux](https://github.com/luoshiyong/CSinterview/blob/master/doc/linux.md)
 - ## [算法](https://github.com/luoshiyong/CSinterview/blob/master/doc/algorithm.md)
 - ## [数据结构](https://github.com/luoshiyong/CSinterview/blob/master/doc/data%20structure.md)
-- ## 数字图像处理
+- ## [数字图像处理](https://github.com/luoshiyong/CSinterview/blob/master/doc/digitalimage.md)
 
 - ## 机器学习
 
