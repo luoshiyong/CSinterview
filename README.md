@@ -19,15 +19,15 @@ Hi! I'm a second year graduated school student! This project is built for next c
 	const int b=100;
 ```
 
-## - C&&C++
+- ## C&&C++
 
-## Python
+- ## Python
 
-## 计算机网络
-## 操作系统
-## Linux
-## 算法
-## 数据结构
+- ## 计算机网络
+- ## 操作系统
+- ## Linux
+- ## 算法
+- ## 数据结构
 
 	
 ###  链表
@@ -36,9 +36,9 @@ Hi! I'm a second year graduated school student! This project is built for next c
 ### 树
 ### 图
 ### 排序
-## 数字图像处理
+- ## 数字图像处理
 
-## 机器学习
+- ## 机器学习
 
-## 深度学习
+- ## 深度学习
 
