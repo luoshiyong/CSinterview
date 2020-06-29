@@ -1,5 +1,5 @@
 # CSinterview
-for programmer interview
+
 ##✏️ 算法
 
     Leetcode 题解
