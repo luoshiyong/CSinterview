@@ -24,7 +24,9 @@ Hi! I'm a second year graduated school student! This project is built for next c
 ## Python
 
 ## 计算机网络
-
+## 操作系统
+## Linux
+## 算法
 ## 数据结构
 
 	
