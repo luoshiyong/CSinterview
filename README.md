@@ -22,10 +22,12 @@ Hi! I'm a second year graduated school student! This project is built for next c
  格式：[名称]（链接）
  如：**[AI象棋](https://github.com/luoshiyong/AIChess)**
   ### **5.插入图片**
-  不显示在md的图片插入格式：[image_name](链接)
-  如：[image_name](https://github.com/luoshiyong/LsyChess/blob/master/pic/2.PNG)
-  显示在md的图片插入格式：！[image_name](链接)
-  如： ！[image_name](https://github.com/luoshiyong/LsyChess/blob/master/pic/2.PNG)
+  不显示在md的图片插入格式：[图片名](链接)
+  如：
+  [image_name](https://github.com/luoshiyong/LsyChess/blob/master/pic/2.PNG)
+  显示在md的图片插入格式：！[图片名](链接)
+  如： 
+  ![image_name](https://github.com/luoshiyong/LsyChess/blob/master/pic/2.PNG)
 - ## C&&C++
 
 - ## Python
