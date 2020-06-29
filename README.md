@@ -23,8 +23,8 @@ Hi! I'm a second year graduated school student! This project is built for next c
  如：**[AI象棋](https://github.com/luoshiyong/AIChess)**
   ### **5.插入图片**
   图片插入格式：！+[图片名]+(链接)
-  如： 
-  ！[image_name](https://github.com/luoshiyong/LsyChess/blob/master/pic/2.PNG)
+   
+  ![image_name](https://github.com/luoshiyong/LsyChess/blob/master/pic/2.PNG)
 - ## C&&C++
 
 - ## Python
