@@ -35,7 +35,7 @@ print(a.device,t1-t0,c.norm(2))
 |2|4|
 |3|6|
 
-## $\sum_{n=1}^N$
+$$\sum_{r=1}^n$$
 
 
 
