@@ -29,7 +29,12 @@ print(a.device,t1-t0,c.norm(2))
 # 梯度下降算法（gradient desent)
 ## 以直线模型y=x*w为例
 ## 数据集如下：
-|x|-|1|2|3|
-|y|-|2|4|6|
+|x|y|
+|-|-|
+|1|2|
+|2|4|
+|3|6|
+![cost][https://github.com/luoshiyong/CSinterview/blob/master/image/cost.PNG]
+
 
 
