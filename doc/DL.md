@@ -34,7 +34,8 @@ print(a.device,t1-t0,c.norm(2))
 |1|2|
 |2|4|
 |3|6|
-![cost][https://github.com/luoshiyong/CSinterview/blob/master/image/cost.PNG]
+
+## cost函数 ![cost][https://github.com/luoshiyong/CSinterview/blob/master/image/cost.PNG]
 
 
 
