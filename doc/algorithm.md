@@ -17,7 +17,7 @@ A<sub>1</sub>A<sub>2</sub>A<sub>3</sub>
 **连乘的例子，设3个矩阵的维度分别为**
 
 
-10&times100，100\times5 , 5\times50
+10\*100，100\*5 , 5\*50
 
 | 加括号方式 | A<sub>1</sub>（A<sub>2</sub>A<sub>3</sub>） | （A<sub>1</sub>A<sub>2</sub>）A<sub>3</sub> |
 | :--------: | ------------------------------------------- | ------------------------------------------- |
@@ -28,7 +28,7 @@ A<sub>1</sub>A<sub>2</sub>A<sub>3</sub>
 
 **由此可见，计算矩阵连乘乘积的时候，加括号方式即计算次序对计算量有很大影响，于是，人们提出矩阵连乘积的最优计算次序问题，对于给定的n个矩阵**
 $$
-A_1A_2A_3.......A_n
+A<sub>1</sub>A<sub>2</sub>A<sub>3</sub>.......A_n
 $$
 **如何确定计算次序使得矩阵连乘需要的数乘次数最少**
 
@@ -39,12 +39,12 @@ $$
 #### 分析最优解结构
 
 **我们用A[ 1 : n ]来表示**
-$$
-A_1A_2A_3.......A_n
-$$
+
+A<sub>1</sub>A<sub>2</sub>A<sub>3</sub>.......A<sub>n</sub>
+
 **考察计算A[ 1 : n ]的最优计算次序，设这个计算次序在矩阵A<sub>k</sub>(1<=k<n),则其相应的完全加括号的方式为**
 $$
-((A_1.....A_K)(A_K+1An))
+((A<sub>1</sub>.....A<sub>k</sub>)(A<sub>k+1</sub>An))
 $$
 **依次次序，先计算A[1 : k]和A[k+1 : n]，再将计算结果相乘，得到A[1 ：n]。**
 
@@ -59,9 +59,9 @@ $$
 
 
 **我们先看一看计算矩阵连乘积（用m数组表示A[i:j]数乘次数，P<sub>i</sub>表示A<sub>i</sub>的列数，也就是A<sub>i+1</sub>的行数）**
-$$
-A_1A_2A_3A_4A_5A_6
-$$
+
+A<sub>1</sub>A<sub>2</sub>A<sub>3</sub>A<sub>4</sub>A<sub>5</sub>A<sub>6</sub>
+
 **其中各矩阵的维数分别为**![2](https://github.com/luoshiyong/CSinterview/tree/master/image/2.PNG)
 
 ![3](https://github.com/luoshiyong/CSinterview/tree/master/image/3.PNG)
