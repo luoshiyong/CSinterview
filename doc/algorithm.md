@@ -54,7 +54,7 @@ A<sub>1</sub>A<sub>2</sub>A<sub>3</sub>.......A<sub>n</sub>
 
 #### 建立递推关系
 
-![](https://github.com/luoshiyong/CSinterview/tree/master/image/1.PNG)
+![递推关系](https://github.com/luoshiyong/CSinterview/tree/master/image/1.PNG)
 
 
 
