@@ -1,1 +1,1 @@
-https://latex.codecogs.com/gif.latex?\\sum_{i=0}^n
+![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\ dx)
