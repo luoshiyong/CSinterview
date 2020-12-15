@@ -14,4 +14,3 @@ Hi! I'm a second year graduated school student! This project is built for next c
 
 - ## [深度学习](https://github.com/luoshiyong/CSinterview/blob/master/doc/DL.md)
 
-- ## [small project](https://github.com/luoshiyong/CSinterview/tree/master/docc/project.md)
